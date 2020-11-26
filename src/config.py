@@ -1,0 +1,12 @@
+UNOPENED_CELL_STR = '#'
+UNOPENED_CELL = -1
+
+EMPTY_CELL_STR = '@'
+EMPTY_CELL = -2
+
+MINE_STR = '*'
+MINE = -3
+
+SEP = ' '
+
+EPS = 0.01
